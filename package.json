@@ -5,9 +5,6 @@
     "main": "index.js",
     "dependencies": {
         "animals": "^0.0.3",
-        "cron": "^1.7.2",
-        "cron-job": "^1.0.3",
-        "cron-time-generator": "^1.0.0",
         "dotenv": "^8.2.0",
         "twit": "^2.2.11"
     },
