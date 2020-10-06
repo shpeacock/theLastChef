@@ -9,9 +9,6 @@
         "cron-job": "^1.0.3",
         "cron-time-generator": "^1.0.0",
         "dotenv": "^8.2.0",
-        "node-cron": "^2.0.3",
-        "opencollective-postinstall": "^2.0.3",
-        "postinstall": "opencollective-postinstall || exit 0",
         "twit": "^2.2.11"
     },
     "devDependencies": {},
